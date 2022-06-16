@@ -1,4 +1,4 @@
-Klicky probe for Troodon BOM
+Klicky probe for A3DP_Troodon BOM
 
 2X M4 standoff aluminum/brass (30mm Rapido, 20mm Takoto HE20)
 
