@@ -1,4 +1,4 @@
-A magnetically coupled and repulsing, normally closed probe inspired by annex engineering's microswitch quickdraw probe.
+A magnetically coupled, repulsing and normally closed probe inspired by annex engineering's microswitch quickdraw probe.
 
 BOM
 
